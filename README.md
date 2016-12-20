@@ -124,7 +124,7 @@ AWSLambda.invoke(params, function(err, data) {
 });
 ```
 
-- Delete a Lambda FunctionName
+- Delete a Lambda Function
 
 ```bash
 const params = {
